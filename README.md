@@ -6,7 +6,7 @@
 <h4> :star: I enjoy working on projects that require creative problem-solving which challenge me to learn and grow.</h4>
 
 <h4> <i>Currently I'm Working On :</h4> 
-<h4> :star: Web Technologies like <i> MERN Stack </i></h4>
+<h4> :star: Web Technology : <i> MERN Stack </i></h4>
 
 
 

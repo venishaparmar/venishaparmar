@@ -8,8 +8,6 @@
   <a href="https://github.com/venishaparmar"><img src="https://readme-typing-svg.herokuapp.com/?lines=😇%20Welcome%20to%20my%20GitHub%20profile;👧🏻%20I'm%20Venisha%20Parmar;🔗%20A%20Software%20Engineer;👨‍💻%20Fullstack%20Web%20Developer;🤝%203%2B%20years%20of%20coding%20experience;🔰%20Always%20learning%20new%20tech&font=Dancing+Script&center=true&width=650&height=120&color=ff69b4&vCenter=true&size=45"></a>
 </p>
 
-![Navy And White Geometric Technology  LinkedIn Banner](https://github.com/venishaparmar/venishaparmar/assets/92502898/227b13ed-9d1d-4780-a37b-5beba58fad68)
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/venisha-parmar) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@parmarvenisha725) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23349901/venisha-parmar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VenishaParmar) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:parmarvenisha725@gmail.com)
 
